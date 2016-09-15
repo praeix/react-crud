@@ -8,3 +8,7 @@ Ensure that you have a LAMP stack running and execute the queries inside `dev/db
 Update the `$username` and `$password` variables inside `config/database.php` with the proper database credentials.
 
 All set!
+
+### Miscellaneous Notes
+
+This project uses ES5 syntax and not ES6 (still learning).
